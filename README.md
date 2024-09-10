@@ -16,18 +16,19 @@ FAST-LIEO is designed to fuse measurements of LiDAR, IMU and event camera, suppo
 <div align="center">
     <img src="./figs/platform.jpg" alt="1"  width="55%" />
     <br>
-    Platform
+    Handheld platform
 </div>
 
-
+<br>
 <div align="center">
     <img src="./figs/indoor.jpg" alt="1"  width="98%" />
     <br>
-    Indoor
+    Indoor sequence example
 </div>
 
+<br>
 <div align="center">
     <img src="./figs/outdoor.jpg" alt="1"  width="98%" />
     <br>
-    Outdoor
+    Outdoor sequences
 </div>
